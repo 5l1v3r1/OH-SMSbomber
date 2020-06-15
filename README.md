@@ -11,15 +11,15 @@ Made with ❤ in IN.
 Use the package manager [pip](https://pip.pypa.io/en/stable/installing/) to install bomb3r.
 
 ```bash
-git clone https://github.com/iMro0t/bomb3r.git
-cd bomb3r
+git clone https://github.com/OnlineHacKing/OH-SMSbomber.git
+cd oh-smsbomber.git
 pip3 install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-python3 bomber.py <TARGET>
+python3 IHbomber.py <TARGET>
 ```
 
 where TARGET is target mobile number.
