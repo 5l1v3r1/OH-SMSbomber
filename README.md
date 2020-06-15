@@ -58,7 +58,3 @@ optional arguments:
       - proxy feature to avoid ip blocking
       - new verbose and verify option
 ```
-
-## License
-
-This project is licensed under the [GNU General Public License v3.0](https://github.com/iMro0t/bomb3r/blob/master/LICENSE)
