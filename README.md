@@ -27,7 +27,7 @@ where TARGET is target mobile number.
 ## Options
 
 ```
-usage: bomber.py [-h] [--sms SMS] [--threads THREADS] TARGET
+usage: OHbomber.py [-h] [--sms SMS] [--threads THREADS] TARGET
 
 positional arguments:
   TARGET                    Target mobile number without country code (default:+91)
