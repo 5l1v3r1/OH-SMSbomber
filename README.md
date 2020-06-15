@@ -12,14 +12,14 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/installing/) to inst
 
 ```bash
 git clone https://github.com/OnlineHacKing/OH-SMSbomber.git
-cd oh-smsbomber.git
+cd OH-SMSbomber
 pip3 install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-python3 IHbomber.py <TARGET>
+python3 OHbomber.py <TARGET>
 ```
 
 where TARGET is target mobile number.
